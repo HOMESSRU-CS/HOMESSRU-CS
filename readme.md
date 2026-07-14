@@ -1,5 +1,5 @@
 # ✨ About Me:
-I am studying in my first year of Computer Science. Suan Sunandha Rajabhat University, Bangkok. 
+I am studying of Computer Science. Suan Sunandha Rajabhat University, Bangkok. 
 
 # 💻 Language:
 ![Java](https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white)

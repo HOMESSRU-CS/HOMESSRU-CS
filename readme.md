@@ -9,5 +9,3 @@ I am studying of Computer Science. Suan Sunandha Rajabhat University, Bangkok.
 
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=homebuu&theme=radical)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api?username=homebuu)
